@@ -1,9 +1,9 @@
 
-=======
-TOCTREE
-=======
+========
+TOC Tree
+========
 
-:Project: TOCTREE
+:Project: TOC Tree
 :Author: `Jay Gray <https://ontomatica.io>`_
 :Date: |today|
 
