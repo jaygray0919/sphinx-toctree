@@ -1,7 +1,12 @@
 .. index:
 
-cover page CSS
-**************
+components
+**********
 
 
-.. include:: _local.txt
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   e/index.rst
+

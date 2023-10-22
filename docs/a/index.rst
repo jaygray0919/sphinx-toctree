@@ -4,5 +4,9 @@
 *****************
 
 
-.. include:: _local.txt
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   b/index.rst
 

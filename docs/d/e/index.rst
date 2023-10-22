@@ -1,7 +1,11 @@
 .. index:
 
-cover page HTML
-***************
+spacer
+******
 
 
-.. include:: _local.txt
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   f/index.rst
