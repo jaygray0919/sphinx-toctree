@@ -9,7 +9,7 @@ TOCTREE
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :hidden:
    :caption: 🍱 toctree test
 
