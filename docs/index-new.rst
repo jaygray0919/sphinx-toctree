@@ -5,14 +5,9 @@ Project Management
 ##################
 
 
-:Project: TOC Tree
-:Author: `Jay Gray <https://ontomatica.io>`_
-:Date: |today|
-
-
 .. toctree::
    :maxdepth: 1
-   :caption: Service Management
+   :caption:
 
    51/index.rst
 
