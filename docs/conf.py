@@ -75,7 +75,7 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 source_encoding = 'utf-8-sig'
 master_doc = 'index'
-project = 'Sphinx Catalog'
+project = 'Project Management'
 copyright = '2023, Ontomatica'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -161,7 +161,7 @@ html_theme_options = {
 }
 
 html_title = ""
-html_short_title = 'TOCTREE'
+html_short_title = 'PM'
 
 # The name of an image file (relative to this directory) to place at the top of the sidebar.
 #html_logo = 'Ontomatica.png'

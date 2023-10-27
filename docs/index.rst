@@ -5,38 +5,43 @@ Project Management
 ##################
 
 
-:Project: TOC Tree
+:Project: Project Task Documentation
 :Author: `Jay Gray <https://ontomatica.io>`_
 :Date: |today|
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Service Management
+   :hidden:
+   :caption: 🌀 Service Management
 
    51/index.rst
 
 .. toctree::
    :maxdepth: 1
-   :caption: Web Sites
+   :hidden:
+   :caption: 🏢 Web Sites
 
    11/index.rst
 
 .. toctree::
    :maxdepth: 1
-   :caption: Amazon Web Services
+   :hidden:
+   :caption: 🟡 Amazon Web Services
 
    21/index.rst
 
 .. toctree::
    :maxdepth: 1
-   :caption: Google
+   :hidden:
+   :caption: 🔴 Google
 
    31/index.rst
 
 .. toctree::
    :maxdepth: 1
-   :caption: Netlify
+   :hidden:
+   :caption: 💠 Netlify
 
    41/index.rst
 
